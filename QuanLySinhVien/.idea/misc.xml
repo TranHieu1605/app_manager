@@ -1,0 +1,40 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.203" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic__email_.xml" value="0.127" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.137" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.137" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic_baseline_edit_attributes_24.xml" value="0.1085" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic_baseline_person_add_alt_1_24.xml" value="0.1" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic_key_24.xml" value="0.1" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/drawable/ic_launcher_background.xml" value="0.203" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_abou_app.xml" value="0.264" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_about_app.xml" value="0.11499493414387031" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_add.xml" value="0.264" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_chitiet.xml" value="0.264" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_dssv.xml" value="0.1" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_edit.xml" value="0.16799999999999998" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_login.xml" value="0.23645833333333333" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/activity_view.xml" value="0.11499493414387031" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/item_sv.xml" value="0.264" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/layout/main_menu.xml" value="0.20677083333333332" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/menu/add_menu.xml" value="0.16" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/menu/chitiet_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/menu/edit_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/menu/main_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/LapTrinhDiDong/DemoCuoiKy/QuanLySinhVien/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
